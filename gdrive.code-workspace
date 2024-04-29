@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "gdrive",
+			"path": "."
+		},
+		{
+			"name": "scripts",
+			"path": "../../Code/blockchain-google-drive/Dgdrive3.0/scripts"
+		}
+	],
+	"settings": {}
+}
